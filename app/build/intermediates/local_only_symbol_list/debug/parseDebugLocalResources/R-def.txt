@@ -1,0 +1,10 @@
+R_DEF: Internal format may change without notice
+local
+id action_reload
+id action_set_url
+id toolbar
+id web
+layout activity_main
+menu main_menu
+string app_name
+style Theme.Karaoke

@@ -1,0 +1,11 @@
+
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+
+rootProject.name = "KaraokeBH_Remote_Android"
+include(":app")

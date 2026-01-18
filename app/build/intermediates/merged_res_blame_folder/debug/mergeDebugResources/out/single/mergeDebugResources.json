@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.karaokebh.remote.app-debug-4:/menu_main_menu.xml.flat",
+        "source": "com.karaokebh.remote.app-main-6:/menu/main_menu.xml"
+    },
+    {
+        "merged": "com.karaokebh.remote.app-debug-4:/layout_activity_main.xml.flat",
+        "source": "com.karaokebh.remote.app-main-6:/layout/activity_main.xml"
+    }
+]
